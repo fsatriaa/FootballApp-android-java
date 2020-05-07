@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_bottomnav_football"
+        android:title="Teams"
+        android:icon="@drawable/football"
+        app:showAsAction="ifRoom">
+    </item>
+
+    <item
+        android:id="@+id/menu_bottomnav_prediction"
+        android:title="Prediction"
+        android:icon="@drawable/prediction"
+        app:showAsAction="ifRoom">
+    </item>
+
+    <item
+        android:id="@+id/menu_bottomnav_about"
+        android:title="About"
+        android:icon="@drawable/about"
+        app:showAsAction="ifRoom">
+    </item>
+
+</menu>

@@ -94,7 +94,7 @@ Kami merangkum seluruh informasi mengenai tim-tim Liga Inggris dan menawarkan pe
                 android:textSize="18sp" />
 
             <TextView
-                android:layout_marginTop="50dp"
+                android:layout_marginTop="5dp"
                 android:textAlignment="center"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
